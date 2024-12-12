@@ -87,16 +87,6 @@ HTML5: Structure of the application.
 CSS3: Styling and animations.
 JavaScript: Core logic and interactivity.
 
-## ⚙️ Configuration
-Key Variables
-Board Size: Change the grid dimensions in script.js:
-
-const boardSize = 10; // Adjust grid size
-
-Game Speed: Modify the game speed in milliseconds:
-
-const gameSpeed = 150;
-
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
